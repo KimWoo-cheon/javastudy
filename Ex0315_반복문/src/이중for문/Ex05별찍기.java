@@ -1,0 +1,42 @@
+package 이중for문;
+
+import java.util.Scanner;
+
+public class Ex05별찍기 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		 System.out.print("행 개수 : ");
+		 int num = sc.nextInt();
+		 int i=0;
+		 int n=0;
+		 int j=0;
+		 for (i=1; i<=num; i++)
+		 {
+		 	for( n=num-i; n>=1; n--) 
+		 {
+		 		System.out.print(" ");		 		
+		 		} 
+		 	for (j=1; j<=i; j++) {
+		 		System.out.print("*");
+		 	}
+		 	 System.out.println("");
+		 	
+		 	}
+		 for (i=num-1; i>0; i--)
+		 {
+		 	for( n=i; n<=num-1; n++) 
+		 {
+		 		System.out.print(" ");		 		
+		 		} 
+		 	for (j=i; j>0; j--) {
+		 		System.out.print("*");
+		 	}
+		 	 System.out.println("");
+		 	
+		 	}
+
+
+	}
+
+}

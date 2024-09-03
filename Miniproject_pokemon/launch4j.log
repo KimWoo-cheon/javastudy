@@ -1,0 +1,188 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\poke.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202\bin
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+JRE paths:	C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\poke.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202\bin
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+JRE paths:	C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\poke.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202\bin
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+JRE paths:	C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\poke.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\smhrd1\Desktop\javastudy_\miniproject_pokemon\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202\bin
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+JRE paths:	C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Java\jdk1.8.0_202\bin
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Users\smhrd1\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Version string: 1.008.000_202 / 64-Bit (Ignore)
+Ignore:		1.008.000_202
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)

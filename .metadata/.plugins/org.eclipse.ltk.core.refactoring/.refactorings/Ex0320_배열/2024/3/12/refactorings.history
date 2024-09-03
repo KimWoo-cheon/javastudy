@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;배열기초.Ex01_배열&apos; to &apos;Ex01배열기초&apos;&#x0D;&#x0A;- Original project: &apos;Ex0320_배열&apos;&#x0D;&#x0A;- Original element: &apos;배열기초.Ex01_배열&apos;&#x0D;&#x0A;- Renamed element: &apos;배열기초.Ex01배열기초&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex01_배열&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;배열기초{Ex01_배열.java[Ex01_배열" matchStrategy="1" name="Ex01배열기초" qualified="false" references="true" similarDeclarations="false" stamp="1710916823680" textual="false" version="1.0"/>
+</session>
